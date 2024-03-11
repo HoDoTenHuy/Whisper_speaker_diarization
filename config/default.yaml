@@ -1,0 +1,8 @@
+api:
+  name: "Whisper Speaker Diarization"
+  service_name: "agent_app"
+  description: "Mention some high level description about API Functionality"
+  version: "0.0.1"
+  debug_mode: "True"
+  host: 'localhost'
+  port: 8002
